@@ -1,4 +1,4 @@
-FROM node:
+FROM node:9
 
 MAINTAINER Armagan Amcalar "armagan@amcalar.com"
 
